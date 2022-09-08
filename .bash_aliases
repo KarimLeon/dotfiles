@@ -29,3 +29,8 @@ alias com="git commit -m"
 alias push="git push origin"
 alias gc="git clone"
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias ca='config add'
+alias cfm='config commit -m'
+alias p='config push'
+
+
