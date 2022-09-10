@@ -28,6 +28,11 @@ colors:
 
 background_opacity: 0.7
 
+cursor:
+   style: 
+     blinking: Always
+
+
 selection:
    semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
    save_to_clipboard: true
