@@ -21,9 +21,9 @@ alias snapsh='sudo timeshift --create --comments "update snapshot" --tags o'
 alias sd='poweroff'
 alias upd='sudo nala update'
 alias install='sudo nala install'
+alias purge='sudo apt purge --auto-remove'
 
 #vm cmds 
-alias purge='sudo apt purge --auto-remove'
 alias vm-start='sudo virsh start'
 alias vm-list='sudo virsh list --all'
 alias vm-sd='sudo virsh shutdown'
