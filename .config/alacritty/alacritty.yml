@@ -28,3 +28,14 @@ colors:
 
 background_opacity: 0.7
 
+selection:
+   semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
+   save_to_clipboard: true
+
+shell: 
+   program: /usr/bin/bash
+mouse:
+  hints:
+    launcher: 
+       program: gio open
+       modifiers: Command
