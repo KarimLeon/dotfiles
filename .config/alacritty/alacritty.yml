@@ -6,7 +6,7 @@ colors:
     foreground: "#d0d0d0"
   cursor:
     text: "#000000"
-    cursor: "#d0d0d0"
+    cursor: "#fffb00" 
   normal:
     black: "#000000"
     red: "#ff0000"
