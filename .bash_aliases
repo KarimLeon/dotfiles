@@ -29,7 +29,7 @@ alias vm-list='sudo virsh list --all'
 alias vm-sd='sudo virsh shutdown'
 alias vm-fsd='sudo virsh destroy'
 alias vm-rn='sudo virsh domrename'
-
+#alias vm-d='sudo virsh undefine --domain'
 
 #git
 alias ga="git add"
