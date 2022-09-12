@@ -29,6 +29,9 @@ colors:
 window:
    opacity: 0.7
 
+font: 
+   size: 14
+ 
 cursor:
    style: 
      blinking: Always
