@@ -121,6 +121,7 @@ fi
 
 LS_COLORS="di=1;97"
 export PATH="~/Scripts/dart-sass:$PATH"
+export PATH="~/.cargo/bin:$PATH"
 
 
 #test
