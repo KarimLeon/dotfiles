@@ -28,7 +28,8 @@ colors:
 
 window:
    opacity: 0.7
-   title: 🔥🔥BASEDKARIM🔥🔥 
+   title: ""   #🔥🔥BASEDKARIM🔥🔥 
+
 
 font: 
    size: 14

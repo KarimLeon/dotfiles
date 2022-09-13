@@ -119,7 +119,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
-LS_COLORS="di=1;97"
+LS_COLORS="di=1;97:fi=0;31:*.js=1;37"
 export PATH="~/.cargo/bin:$PATH"
 
 
