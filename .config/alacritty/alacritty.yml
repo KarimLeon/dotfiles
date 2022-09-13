@@ -28,6 +28,7 @@ colors:
 
 window:
    opacity: 0.7
+   title: 🔥🔥BASEDKARIM🔥🔥 
 
 font: 
    size: 14
@@ -48,3 +49,8 @@ mouse:
     launcher: 
        program: gio open
        modifiers: Command
+
+
+#--------------------- TESTING AREA ------------------->
+
+
