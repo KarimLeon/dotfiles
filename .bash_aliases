@@ -13,7 +13,7 @@ alias wifi='nmcli dev wifi'
 alias use='nmcli dev wifi connect'
 alias x='exit'
 alias upg?='nala list --upgradable'
-alias os='cat /etc/os-release  | grep -i "PRETTY_NAME" | cut -c 14-31'
+alias os='lsb_release -a'
 
 #sudo 
 alias suvi='sudo vim'
