@@ -23,6 +23,7 @@ alias upd='sudo nala update'
 alias upg='sudo nala upgrade -y'
 alias install='sudo nala install'
 alias purge='sudo apt purge --auto-remove'
+alias ports='sudo lsof -i -P -n'
 
 #vm cmds 
 alias vm-start='sudo virsh start'
