@@ -14,6 +14,7 @@ alias use='nmcli dev wifi connect'
 alias x='exit'
 alias upg?='nala list --upgradable'
 alias os='lsb_release -a'
+alias myip='ip addr | grep wlo1'
 
 #sudo 
 alias suvi='sudo vim'
