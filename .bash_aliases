@@ -27,7 +27,7 @@ alias purge='sudo apt purge --auto-remove'
 alias ports='sudo lsof -i -P -n'
 
 #vm cmds 
-alias vm-s='sudo virsh start; virt-manager'
+alias vm-s='virt-manager; sudo virsh start'
 alias vm-ls='sudo virsh list --all'
 alias vm-sd='sudo virsh shutdown'
 alias vm-fsd='sudo virsh destroy'
