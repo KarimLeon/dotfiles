@@ -43,5 +43,6 @@ alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 alias ca='config add'
 alias cfm='config commit -m'
 alias p='config push'
+alias cos='config status'
 
 
