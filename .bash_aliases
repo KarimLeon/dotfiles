@@ -15,6 +15,7 @@ alias x='exit'
 alias upg?='nala list --upgradable'
 alias os='lsb_release -a'
 alias myip='ip addr | grep wlo1'
+alias n='node'
 
 #sudo 
 alias suvi='sudo vim'
