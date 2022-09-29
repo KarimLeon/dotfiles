@@ -16,7 +16,7 @@ alias upg?='nala list --upgradable'
 alias os='lsb_release -a'
 alias myip='ip addr | grep wlo1'
 alias n='node'
-alias nypl='brave-browser https://www.nypl.org/locations/snfl'
+alias nt='nypl-time'
 
 #sudo 
 alias suvi='sudo vim'
