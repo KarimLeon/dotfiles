@@ -17,6 +17,7 @@ alias os='lsb_release -a'
 alias myip='ip addr | grep wlo1'
 alias n='node'
 alias nt='nypl-time'
+alias gsets="gnome-control-center"
 
 #sudo 
 alias suvi='sudo vim'
