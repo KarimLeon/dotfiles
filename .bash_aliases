@@ -18,6 +18,7 @@ alias myip='ip addr | grep wlo1'
 alias n='node'
 alias nt='nypl-time'
 alias gsets="gnome-control-center"
+alias logo='gnome-session-quit --no-prompt'
 
 #sudo 
 alias suvi='sudo vim'
