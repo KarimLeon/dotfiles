@@ -19,6 +19,7 @@ alias n='node'
 alias nt='nypl-time'
 alias gsets="gnome-control-center"
 alias logo='gnome-session-quit --no-prompt'
+alias int?='ping -c 10 google.com'
 
 #sudo 
 alias suvi='sudo vim'
