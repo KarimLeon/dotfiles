@@ -26,9 +26,9 @@ colors:
     cyan: "#00ffff"
     white: "#ffffff"
 
-window:
-   opacity: 0.7
-   title: ""   #🔥🔥BASEDKARIM🔥🔥 
+    #window:
+    #opacity: 0.7
+    #title: ""   #🔥🔥BASEDKARIM🔥🔥 
 
 
 font: 

@@ -11,5 +11,6 @@ set incsearch
 set ignorecase
 set hlsearch
 set wildmenu
+set background=dark
 "colorscheme molokai"
 "colorscheme orbital"
