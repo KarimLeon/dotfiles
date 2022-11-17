@@ -1,4 +1,4 @@
-alias v='vim'
+alias v='nvim'
 alias c='clear'
 alias gch='google-chrome'
 alias open='gio open'
